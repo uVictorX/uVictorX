@@ -16,8 +16,6 @@
   
   <img align="center" alt="Victor-Py" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="center" alt="Victor-Node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  
   <img align="center" alt="Victor-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   <img align="center" alt="Victor-Vue" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
@@ -29,10 +27,6 @@
   <img align="center" alt="Victor-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   <img align="center" alt="Victor-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Victor-Less" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
-  
-  <img align="center" alt="Victor-Sass" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
   <img align="center" alt="Victor-Git" height="60" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div>
